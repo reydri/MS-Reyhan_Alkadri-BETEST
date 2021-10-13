@@ -6,6 +6,5 @@
   ### 3. Docker
 
 ### Port :
-   #### Port docker : 3000
-   #### Port local : 8000
-  
+   #### Port docker = localhost:3000
+   #### Port local = localhost:8000
